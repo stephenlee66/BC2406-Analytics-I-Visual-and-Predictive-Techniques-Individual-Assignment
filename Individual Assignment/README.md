@@ -5,6 +5,9 @@ Develop and evaluate predictive models to identify and classify misinformation i
 
 ## 📊 Results
 
+### 🗂️ Misinformation Dataset
+This dataset was provided internally by the course. It contains features describing each digital post and a binary label indicating whether the post is misinformation (`1`) or not (`0`).
+
 #### 📈 Logistic Regression
 
 **Confusion Matrix**
