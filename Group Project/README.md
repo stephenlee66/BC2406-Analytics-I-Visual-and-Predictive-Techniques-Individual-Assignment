@@ -1,9 +1,7 @@
-## 👥 Group Project: Diabetes Risk Prediction
+# 👥 Group Project: Diabetes Risk Prediction
 
-### 🎯 Objective
+## 🎯 Objective
 The objective of this project is to develop and evaluate supervised learning models to predict diabetes risk using 2 datasets with differing feature characteristics. Model performance is assessed using classification metrics with emphasis on recall due to the healthcare context.
-
----
 
 ## 📊 Datasets & Modeling Approach
 
@@ -28,8 +26,6 @@ This dataset consists primarily of binary symptom indicators. Such features may 
 | Recall       | 94.2% |
 | Specificity  | 69.6% |
 
----
-
 #### CART (Decision Tree)
 
 **Confusion Matrix**
@@ -47,8 +43,6 @@ This dataset consists primarily of binary symptom indicators. Such features may 
 | Precision    | 94.3% |
 | Recall       | 96.2% |
 | Specificity  | 87.0% |
-
----
 
 ### 2️⃣ Health Indicators Dataset
 This dataset contains continuous numerical variables representing physiological and lifestyle indicators.
@@ -71,8 +65,6 @@ This dataset contains continuous numerical variables representing physiological 
 | Recall       | 79.7% |
 | Specificity  | 69.7% |
 
----
-
 #### CART (Decision Tree)
 
 **Confusion Matrix**
@@ -90,5 +82,3 @@ This dataset contains continuous numerical variables representing physiological 
 | Precision    | 68.5% |
 | Recall       | 79.0% |
 | Specificity  | 63.7% |
-
----
