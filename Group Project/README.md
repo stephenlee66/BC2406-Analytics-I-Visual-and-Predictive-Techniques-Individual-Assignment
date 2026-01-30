@@ -3,7 +3,7 @@
 ## 🎯 Objective
 The objective of this project is to develop and evaluate supervised learning models (Logistic Regression and CART) to predict diabetes risk using 2 datasets with differing feature characteristics. Model performance is assessed using classification metrics with emphasis on recall due to the healthcare context.
 
-## 📊 Datasets & Modeling Approach
+## 📊 Results
 
 ### 1️⃣ Early Symptoms Dataset
 This dataset consists primarily of binary symptom indicators. Such features may exhibit non-linear interactions that influence diabetes risk.
