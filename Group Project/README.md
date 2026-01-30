@@ -8,7 +8,7 @@ The objective of this project is to develop and evaluate supervised learning mod
 ### 1️⃣ Early Symptoms Dataset
 This dataset consists primarily of binary symptom indicators. Such features may exhibit non-linear interactions that influence diabetes risk.
 
-#### Logistic Regression
+#### 📈 **Logistic Regression**
 
 **Confusion Matrix**
 
@@ -26,7 +26,7 @@ This dataset consists primarily of binary symptom indicators. Such features may 
 | Recall       | 94.2% |
 | Specificity  | 69.6% |
 
-#### CART (Decision Tree)
+#### 🌳 **CART (Decision Tree)**
 
 **Confusion Matrix**
 
@@ -47,7 +47,7 @@ This dataset consists primarily of binary symptom indicators. Such features may 
 ### 2️⃣ Health Indicators Dataset
 This dataset contains continuous numerical variables representing physiological and lifestyle indicators.
 
-#### Logistic Regression
+#### 📈 **Logistic Regression**
 
 **Confusion Matrix**
 
@@ -65,7 +65,7 @@ This dataset contains continuous numerical variables representing physiological 
 | Recall       | 79.7% |
 | Specificity  | 69.7% |
 
-#### CART (Decision Tree)
+#### 🌳 **CART (Decision Tree)**
 
 **Confusion Matrix**
 
