@@ -1,7 +1,7 @@
 # 👥 Group Project: Diabetes Risk Prediction
 
 ## 🎯 Objective
-The objective of this project is to develop and evaluate supervised learning models (logistic regression and CART) to predict diabetes risk using 2 datasets with differing feature characteristics. Model performance is assessed using classification metrics with emphasis on recall due to the healthcare context.
+The objective of this project is to develop and evaluate supervised learning models (Logistic Regression and CART) to predict diabetes risk using 2 datasets with differing feature characteristics. Model performance is assessed using classification metrics with emphasis on recall due to the healthcare context.
 
 ## 📊 Datasets & Modeling Approach
 
